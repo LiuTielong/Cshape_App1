@@ -12,6 +12,7 @@ namespace WindowsFormsApp5
 {
     public partial class Form2 : Form
     {
+        int a = 5;
         public Form2()
         {
             InitializeComponent();
